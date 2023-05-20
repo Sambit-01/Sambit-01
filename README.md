@@ -1,4 +1,4 @@
-![MasterHead](https://e0.pxfuel.com/wallpapers/540/471/desktop-wallpaper-aesthetics-background-gif-for-music.jpg)
+![MasterHead](https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif)
 <h1 align="center">Hi❤️, I'm SAMBIT PRUSTY</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
