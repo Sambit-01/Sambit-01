@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm SAMBIT PRUSTY</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit-01&label=Profile%20views&color=0e75b6&style=flat" alt="sambit-01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sambitprusty20" target="blank"><img src="https://img.shields.io/twitter/follow/sambitprusty20?logo=twitter&style=for-the-badge" alt="sambitprusty20" /></a> </p>
